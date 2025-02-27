@@ -28,10 +28,10 @@ function Footer() {
             <CiLinkedin size={24} />
             <a href="https://www.linkedin.com/in/adnan-ali-6b81912ab" target="_blank" rel="noopener noreferrer" className="hover:underline">Linkedin/adnan-ali</a>
           </li>
-          <li className='flex gap-3 items-center'>
+          {/* <li className='flex gap-3 items-center'>
             <PiPhoneCall size={24} />
             <a href="tel:+917225966222" className="hover:underline">+91 7225966222</a>
-          </li>
+          </li> */}
           <li className='flex gap-3 items-center'>
             <FaGithub size={24} />
             <a href="https://github.com/adnan-ali7" target="_blank" rel="noopener noreferrer" className="hover:underline">Github/adnan-ali7</a>
